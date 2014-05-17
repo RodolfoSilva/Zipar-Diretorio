@@ -1,4 +1,4 @@
-zip-archive
+Zip Archive
 ===========
 
-Zip Archive
+Classe para zipar diretorio
